@@ -3,12 +3,39 @@ guid: ab88cfc4c20d6a54db22adb8747c7bb6
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box002
+    100004: Box003
+    100006: Box004
+    100008: Box005
+    100010: Box006
+    100012: Box007
+    100014: Box008
+    100016: Box009
+    100018: Box010
+    100020: Box011
+    100022: Cylinder001
+    400000: //RootNode
+    400002: Box002
+    400004: Box003
+    400006: Box004
+    400008: Box005
+    400010: Box006
+    400012: Box007
+    400014: Box008
+    400016: Box009
+    400018: Box010
+    400020: Box011
+    400022: Cylinder001
     4300000: Box009
     4300002: Box008
     4300004: Box010
     4300006: Box007
     4300008: Box011
     4300010: Cylinder001
+    7400000: idle
+    11100000: //RootNode
+    13700000: Cylinder001
   materials:
     importMaterials: 1
     materialName: 0
@@ -18,6 +45,10 @@ ModelImporter:
     bakeSimulation: 0
     optimizeGameObjects: 0
     motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
     animationCompression: 1
     animationRotationError: .5
     animationPositionError: .5
